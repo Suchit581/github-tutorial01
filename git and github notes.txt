@@ -24,6 +24,27 @@ git add remote origin https:// lnk
 //adding file to the github
 git push -u origin master
 
+
+//logging how much commit 
+git logging
+
+//for list of branchin 
+git branch
+
+// for making new branch
+git branch newBranch
+
+//how to switch to new branch
+git checkout newBranch
+
+//how to puch in ranch 
+git push origin : newBranch
+
+//
+
+9306094713
+
+
 git use for local version control only 
 -------------------------------------------------------
 
