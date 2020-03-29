@@ -1,0 +1,35 @@
+git and github notes 
+
+git is version control systme (vcs)
+
+git config --global user.email "suchitsheth42@gmail.com"
+
+git config --global user.name "suchitsheth.com"
+
+
+// initlizing git in the folder(security gard)
+git init
+
+// adding file to the git which (add file of give to security gard)
+git add .
+
+
+
+// commit file to the git
+git commit -m "name will be here with version "
+
+//connecting with github
+git add remote origin https:// lnk
+
+//adding file to the github
+git push -u origin master
+
+git use for local version control only 
+-------------------------------------------------------
+
+github account
+@Suchit581
+
+github: having repo/folder and project collebration platform
+
+
